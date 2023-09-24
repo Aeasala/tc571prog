@@ -1,3 +1,4 @@
 Record=TopLevelDocument|FileName=TopLevel.SchDoc|SheetNumber=1
-Record=SheetSymbol|SourceDocument=TopLevel.SchDoc|Designator=U_Schematic1|SchDesignator=U_Schematic1|FileName=Schematic1.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Schematic1.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=NoMainPathDocument|SourceDocument=TopLevel.SchDoc|FileName=Mechanical.SchDoc|SheetNumber=3
+Record=SheetSymbol|SourceDocument=TopLevel.SchDoc|Designator=U_DIPBreakout|SchDesignator=U_DIPBreakout|FileName=DIPBreakout.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=DIPBreakout.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TopLevel.SchDoc|Designator=U_PowerSwitching|SchDesignator=U_PowerSwitching|FileName=PowerSwitching.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=PowerSwitching.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=TopLevel.SchDoc|FileName=Mechanical.SchDoc|SheetNumber=4
